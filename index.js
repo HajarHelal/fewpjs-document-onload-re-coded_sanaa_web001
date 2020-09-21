@@ -3,6 +3,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 function DOMContentLoaded() {
   document.getElementById( "text" )
-    .innerHTML = "JavaScript is so cool. It
-lets me add text to my page programmatically.";
+    .innerHTML = "JavaScript is so cool. It lets me add text to my page programmatically.";
 }
